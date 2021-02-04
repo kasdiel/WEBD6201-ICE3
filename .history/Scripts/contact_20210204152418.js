@@ -1,9 +1,3 @@
-/*
-Author: Kristopher Hankey
-Date: Feb 04, 2021
-Course: WEBD6201
-*/
-
 "use strict";
 // Contact Class
 
